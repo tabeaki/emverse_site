@@ -8,7 +8,6 @@ import Seo from './components/Seo'
 import Header from './components/Header';
 import toast, { Toaster } from 'react-hot-toast'
 
-
 const signatureDropAddress = "0x5C57A4e9A549E6bD4B2393e9BEa9f2CDbB6A0a4d";
 
 const Home: NextPage = () => {
