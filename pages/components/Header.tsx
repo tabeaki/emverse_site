@@ -11,7 +11,7 @@ import Image from 'next/image'
                         <div className="bg-[url('/opensea_icon.png')] px-2 pt-8 mx-1 bg-center bg-cover"><a className="px-2 py-4" href=""></a></div>
                         <div className="bg-[url('/twitter_icon.png')] px-2 pt-8 mx-1 bg-center bg-cover"><a className="px-2 py-4" href=""></a></div>                    
                     </div>
-                    <div className="justify-end pt-2 flex">
+                    <div className="justify-end px-40 pt-2 flex">
                         <Image className="" src="/headerLogo.png" alt="chara1" width={240} height={30} objectFit="contain"/>
                     </div>
 
